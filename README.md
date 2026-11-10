@@ -111,6 +111,7 @@ Visualización interactiva del dashboard:
 ## Fuente de Datos
 
 Dirección General de Seguridad de Tránsito y Transporte Terrestre (DIGESETT) y Portal Nacional de Datos Abiertos de la República Dominicana.
+URL: https://datos.gob.do/dataset/estadistica-de-fallecimientos-por-accidentes-de-transito
 
 ## Autor
 
